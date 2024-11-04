@@ -1,0 +1,737 @@
+{
+    "albums": 
+    [
+        {
+            "query": "Bad+Bunny",
+            "albums": {
+                "totalCount": 898,
+                "items": [
+                    {
+                        "data": {
+                            "uri": "spotify:album:3RQQmkQEvNCY4prGKE6oc5",
+                            "name": "Un Verano Sin Ti",
+                            "artists": {
+                                "items": [
+                                    {
+                                        "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X",
+                                        "profile": {
+                                            "name": "Bad Bunny"
+                                        }
+                                    }
+                                ]
+                            },
+                            "coverArt": {
+                                "sources": [
+                                    {
+                                        "url": "https://i.scdn.co/image/ab67616d00001e0249d694203245f241a1bcaa72",
+                                        "width": 300,
+                                        "height": 300
+                                    },
+                                    {
+                                        "url": "https://i.scdn.co/image/ab67616d0000485149d694203245f241a1bcaa72",
+                                        "width": 64,
+                                        "height": 64
+                                    },
+                                    {
+                                        "url": "https://i.scdn.co/image/ab67616d0000b27349d694203245f241a1bcaa72",
+                                        "width": 640,
+                                        "height": 640
+                                    }
+                                ]
+                            },
+                            "date": {
+                                "year": 2022
+                            }
+                        }
+                    }                   
+                ],
+                "pagingInfo": {
+                    "nextOffset": 5,
+                    "limit": 5
+                }
+            }
+        },
+        {
+            "query": "The+Weeknd",
+            "albums": {
+                "totalCount": 901,
+                "items": [
+                    {
+                        "data": {
+                            "uri": "spotify:album:5dH89SWty2zwQkpLtPI2Lv",
+                            "name": "São Paulo",
+                            "artists": {
+                                "items": [
+                                    {
+                                        "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ",
+                                        "profile": {
+                                            "name": "The Weeknd"
+                                        }
+                                    },
+                                    {
+                                        "uri": "spotify:artist:7FNnA9vBm6EKceENgCGRMb",
+                                        "profile": {
+                                            "name": "Anitta"
+                                        }
+                                    }
+                                ]
+                            },
+                            "coverArt": {
+                                "sources": [
+                                    {
+                                        "url": "https://i.scdn.co/image/ab67616d00001e021973b0a35d5d0f2657f3b85e",
+                                        "width": 300,
+                                        "height": 300
+                                    },
+                                    {
+                                        "url": "https://i.scdn.co/image/ab67616d000048511973b0a35d5d0f2657f3b85e",
+                                        "width": 64,
+                                        "height": 64
+                                    },
+                                    {
+                                        "url": "https://i.scdn.co/image/ab67616d0000b2731973b0a35d5d0f2657f3b85e",
+                                        "width": 640,
+                                        "height": 640
+                                    }
+                                ]
+                            },
+                            "date": {
+                                "year": 2024
+                            }
+                        }
+                    },
+                    {
+                        "data": {
+                            "uri": "spotify:album:7tzVd1fwkxsorytCBjEJkU",
+                            "name": "The Idol Episode 4 (Music from the HBO Original Series)",
+                            "artists": {
+                                "items": [
+                                    {
+                                        "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ",
+                                        "profile": {
+                                            "name": "The Weeknd"
+                                        }
+                                    },
+                                    {
+                                        "uri": "spotify:artist:250b0Wlc5Vk0CoUsaCY84M",
+                                        "profile": {
+                                            "name": "JENNIE"
+                                        }
+                                    },
+                                    {
+                                        "uri": "spotify:artist:1pBLC0qVRTB5zVMuteQ9jJ",
+                                        "profile": {
+                                            "name": "Lily-Rose Depp"
+                                        }
+                                    }
+                                ]
+                            },
+                            "coverArt": {
+                                "sources": [
+                                    {
+                                        "url": "https://i.scdn.co/image/ab67616d00001e02b0dd6a5cd1dec96c4119c262",
+                                        "width": 300,
+                                        "height": 300
+                                    },
+                                    {
+                                        "url": "https://i.scdn.co/image/ab67616d00004851b0dd6a5cd1dec96c4119c262",
+                                        "width": 64,
+                                        "height": 64
+                                    },
+                                    {
+                                        "url": "https://i.scdn.co/image/ab67616d0000b273b0dd6a5cd1dec96c4119c262",
+                                        "width": 640,
+                                        "height": 640
+                                    }
+                                ]
+                            },
+                            "date": {
+                                "year": 2023
+                            }
+                        }
+                    },
+                    {
+                        "data": {
+                            "uri": "spotify:album:0P3oVJBFOv3TDXlYRhGL7s",
+                            "name": "Beauty Behind The Madness",
+                            "artists": {
+                                "items": [
+                                    {
+                                        "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ",
+                                        "profile": {
+                                            "name": "The Weeknd"
+                                        }
+                                    }
+                                ]
+                            },
+                            "coverArt": {
+                                "sources": [
+                                    {
+                                        "url": "https://i.scdn.co/image/ab67616d00001e027fcead687e99583072cc217b",
+                                        "width": 300,
+                                        "height": 300
+                                    },
+                                    {
+                                        "url": "https://i.scdn.co/image/ab67616d000048517fcead687e99583072cc217b",
+                                        "width": 64,
+                                        "height": 64
+                                    },
+                                    {
+                                        "url": "https://i.scdn.co/image/ab67616d0000b2737fcead687e99583072cc217b",
+                                        "width": 640,
+                                        "height": 640
+                                    }
+                                ]
+                            },
+                            "date": {
+                                "year": 2015
+                            }
+                        }
+                    },
+                    {
+                        "data": {
+                            "uri": "spotify:album:0p0FGxiCrl3afABenvtWbQ",
+                            "name": "Popular",
+                            "artists": {
+                                "items": [
+                                    {
+                                        "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ",
+                                        "profile": {
+                                            "name": "The Weeknd"
+                                        }
+                                    },
+                                    {
+                                        "uri": "spotify:artist:6tbjWDEIzxoDsBA1FuhfPW",
+                                        "profile": {
+                                            "name": "Madonna"
+                                        }
+                                    }
+                                ]
+                            },
+                            "coverArt": {
+                                "sources": [
+                                    {
+                                        "url": "https://i.scdn.co/image/ab67616d00001e02f53930e3203b69952b4c5920",
+                                        "width": 300,
+                                        "height": 300
+                                    },
+                                    {
+                                        "url": "https://i.scdn.co/image/ab67616d00004851f53930e3203b69952b4c5920",
+                                        "width": 64,
+                                        "height": 64
+                                    },
+                                    {
+                                        "url": "https://i.scdn.co/image/ab67616d0000b273f53930e3203b69952b4c5920",
+                                        "width": 640,
+                                        "height": 640
+                                    }
+                                ]
+                            },
+                            "date": {
+                                "year": 2024
+                            }
+                        }
+                    },
+                    {
+                        "data": {
+                            "uri": "spotify:album:4yP0hdKOZPNshxUOjY0cZj",
+                            "name": "After Hours",
+                            "artists": {
+                                "items": [
+                                    {
+                                        "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ",
+                                        "profile": {
+                                            "name": "The Weeknd"
+                                        }
+                                    }
+                                ]
+                            },
+                            "coverArt": {
+                                "sources": [
+                                    {
+                                        "url": "https://i.scdn.co/image/ab67616d00001e028863bc11d2aa12b54f5aeb36",
+                                        "width": 300,
+                                        "height": 300
+                                    },
+                                    {
+                                        "url": "https://i.scdn.co/image/ab67616d000048518863bc11d2aa12b54f5aeb36",
+                                        "width": 64,
+                                        "height": 64
+                                    },
+                                    {
+                                        "url": "https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36",
+                                        "width": 640,
+                                        "height": 640
+                                    }
+                                ]
+                            },
+                            "date": {
+                                "year": 2020
+                            }
+                        }
+                    }
+                ],
+                "pagingInfo": {
+                    "nextOffset": 5,
+                    "limit": 5
+                }
+            }
+        },
+        {
+            "query": "Post+Malone",
+            "albums": {
+                "totalCount": 896,
+                "items": [
+                    {
+                        "data": {
+                            "uri": "spotify:album:4BbsHmXEghoPPevQjPnHXx",
+                            "name": "F-1 Trillion",
+                            "artists": {
+                                "items": [
+                                    {
+                                        "uri": "spotify:artist:246dkjvS1zLTtiykXe5h60",
+                                        "profile": {
+                                            "name": "Post Malone"
+                                        }
+                                    }
+                                ]
+                            },
+                            "coverArt": {
+                                "sources": [
+                                    {
+                                        "url": "https://i.scdn.co/image/ab67616d00001e0288208159b1b3c69eefdeb2e0",
+                                        "width": 300,
+                                        "height": 300
+                                    },
+                                    {
+                                        "url": "https://i.scdn.co/image/ab67616d0000485188208159b1b3c69eefdeb2e0",
+                                        "width": 64,
+                                        "height": 64
+                                    },
+                                    {
+                                        "url": "https://i.scdn.co/image/ab67616d0000b27388208159b1b3c69eefdeb2e0",
+                                        "width": 640,
+                                        "height": 640
+                                    }
+                                ]
+                            },
+                            "date": {
+                                "year": 2024
+                            }
+                        }
+                    }
+                ],
+                "pagingInfo": {
+                    "nextOffset": 5,
+                    "limit": 5
+                }
+            }
+        },
+        {
+            "query": "Metro+Boomin",
+            "albums": {
+                "totalCount": 897,
+                "items": [                    
+                    {
+                        "data": {
+                            "uri": "spotify:album:1bwbZJ6khPJyVpOaqgKsoZ",
+                            "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+                            "artists": {
+                                "items": [
+                                    {
+                                        "uri": "spotify:artist:0iEtIxbK0KxaSlF7G42ZOp",
+                                        "profile": {
+                                            "name": "Metro Boomin"
+                                        }
+                                    }
+                                ]
+                            },
+                            "coverArt": {
+                                "sources": [
+                                    {
+                                        "url": "https://i.scdn.co/image/ab67616d00001e026ed9aef791159496b286179f",
+                                        "width": 300,
+                                        "height": 300
+                                    },
+                                    {
+                                        "url": "https://i.scdn.co/image/ab67616d000048516ed9aef791159496b286179f",
+                                        "width": 64,
+                                        "height": 64
+                                    },
+                                    {
+                                        "url": "https://i.scdn.co/image/ab67616d0000b2736ed9aef791159496b286179f",
+                                        "width": 640,
+                                        "height": 640
+                                    }
+                                ]
+                            },
+                            "date": {
+                                "year": 2023
+                            }
+                        }
+                    }
+                ],
+                "pagingInfo": {
+                    "nextOffset": 5,
+                    "limit": 5
+                }
+            }
+        },
+        {
+            "query": "Drake",
+            "albums": {
+                "totalCount": 104,
+                "items": [
+                    {
+                        "data": {
+                            "uri": "spotify:album:6X1x82kppWZmDzlXXK3y3q",
+                            "name": "Take Care (Deluxe)",
+                            "artists": {
+                                "items": [
+                                    {
+                                        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4",
+                                        "profile": {
+                                            "name": "Drake"
+                                        }
+                                    }
+                                ]
+                            },
+                            "coverArt": {
+                                "sources": [
+                                    {
+                                        "url": "https://i.scdn.co/image/ab67616d00001e02c7ea04a9b455e3f68ef82550",
+                                        "width": 300,
+                                        "height": 300
+                                    },
+                                    {
+                                        "url": "https://i.scdn.co/image/ab67616d00004851c7ea04a9b455e3f68ef82550",
+                                        "width": 64,
+                                        "height": 64
+                                    },
+                                    {
+                                        "url": "https://i.scdn.co/image/ab67616d0000b273c7ea04a9b455e3f68ef82550",
+                                        "width": 640,
+                                        "height": 640
+                                    }
+                                ]
+                            },
+                            "date": {
+                                "year": 2011
+                            }
+                        }
+                    }
+                ],
+                "pagingInfo": {
+                    "nextOffset": 5,
+                    "limit": 5
+                }
+            }
+        },
+        {
+            "query": "Doja+Cat",
+            "albums": {
+                "totalCount": 899,
+                "items": [
+                    {
+                        "data": {
+                            "uri": "spotify:album:54dZypaXHAIDzBe9ujAZ63",
+                            "name": "Paint The Town Red",
+                            "artists": {
+                                "items": [
+                                    {
+                                        "uri": "spotify:artist:5cj0lLjcoR7YOSnhnX0Po5",
+                                        "profile": {
+                                            "name": "Doja Cat"
+                                        }
+                                    }
+                                ]
+                            },
+                            "coverArt": {
+                                "sources": [
+                                    {
+                                        "url": "https://i.scdn.co/image/ab67616d00001e027acee948ecac8380c1b6ce30",
+                                        "width": 300,
+                                        "height": 300
+                                    },
+                                    {
+                                        "url": "https://i.scdn.co/image/ab67616d000048517acee948ecac8380c1b6ce30",
+                                        "width": 64,
+                                        "height": 64
+                                    },
+                                    {
+                                        "url": "https://i.scdn.co/image/ab67616d0000b2737acee948ecac8380c1b6ce30",
+                                        "width": 640,
+                                        "height": 640
+                                    }
+                                ]
+                            },
+                            "date": {
+                                "year": 2023
+                            }
+                        }
+                    }
+                ],
+                "pagingInfo": {
+                    "nextOffset": 5,
+                    "limit": 5
+                }
+            }
+        },
+        {
+            "query": "Eminen",
+            "albums": {
+                "totalCount": 900,
+                "items": [
+                    {
+                        "data": {
+                            "uri": "spotify:album:7ojtORpfKEbIbLFWFlIM1y",
+                            "name": "Eminent ‘Ukulele",
+                            "artists": {
+                                "items": [
+                                    {
+                                        "uri": "spotify:artist:6gGkPp4S8NRus9KxxxmPzy",
+                                        "profile": {
+                                            "name": "Kimo Hussey"
+                                        }
+                                    }
+                                ]
+                            },
+                            "coverArt": {
+                                "sources": [
+                                    {
+                                        "url": "https://i.scdn.co/image/ab67616d00001e029635b60d2d7f346a83fdfd3c",
+                                        "width": 300,
+                                        "height": 300
+                                    },
+                                    {
+                                        "url": "https://i.scdn.co/image/ab67616d000048519635b60d2d7f346a83fdfd3c",
+                                        "width": 64,
+                                        "height": 64
+                                    },
+                                    {
+                                        "url": "https://i.scdn.co/image/ab67616d0000b2739635b60d2d7f346a83fdfd3c",
+                                        "width": 640,
+                                        "height": 640
+                                    }
+                                ]
+                            },
+                            "date": {
+                                "year": 1999
+                            }
+                        }
+                    }
+                ],
+                "pagingInfo": {
+                    "nextOffset": 5,
+                    "limit": 5
+                }
+            }
+        },
+        {
+            "query": "Kanye+West",
+            "albums": {
+                "totalCount": 897,
+                "items": [
+                    {
+                        "data": {
+                            "uri": "spotify:album:4SZko61aMnmgvNhfhgTuD3",
+                            "name": "Graduation",
+                            "artists": {
+                                "items": [
+                                    {
+                                        "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x",
+                                        "profile": {
+                                            "name": "Kanye West"
+                                        }
+                                    }
+                                ]
+                            },
+                            "coverArt": {
+                                "sources": [
+                                    {
+                                        "url": "https://i.scdn.co/image/ab67616d00001e0226f7f19c7f0381e56156c94a",
+                                        "width": 300,
+                                        "height": 300
+                                    },
+                                    {
+                                        "url": "https://i.scdn.co/image/ab67616d0000485126f7f19c7f0381e56156c94a",
+                                        "width": 64,
+                                        "height": 64
+                                    },
+                                    {
+                                        "url": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+                                        "width": 640,
+                                        "height": 640
+                                    }
+                                ]
+                            },
+                            "date": {
+                                "year": 2007
+                            }
+                        }
+                    }
+                ],
+                "pagingInfo": {
+                    "nextOffset": 5,
+                    "limit": 5
+                }
+            }
+        },
+        {
+            "query": "Danny+Ocean",
+            "albums": {
+                "totalCount": 896,
+                "items": [                     
+                    {
+                        "data": {
+                            "uri": "spotify:album:7qF0L6bZnkDlezwvUJeFet",
+                            "name": "venequia.",
+                            "artists": {
+                                "items": [
+                                    {
+                                        "uri": "spotify:artist:5H1nN1SzW0qNeUEZvuXjAj",
+                                        "profile": {
+                                            "name": "Danny Ocean"
+                                        }
+                                    }
+                                ]
+                            },
+                            "coverArt": {
+                                "sources": [
+                                    {
+                                        "url": "https://i.scdn.co/image/ab67616d00001e0258f6aca964dfde2954880924",
+                                        "width": 300,
+                                        "height": 300
+                                    },
+                                    {
+                                        "url": "https://i.scdn.co/image/ab67616d0000485158f6aca964dfde2954880924",
+                                        "width": 64,
+                                        "height": 64
+                                    },
+                                    {
+                                        "url": "https://i.scdn.co/image/ab67616d0000b27358f6aca964dfde2954880924",
+                                        "width": 640,
+                                        "height": 640
+                                    }
+                                ]
+                            },
+                            "date": {
+                                "year": 2024
+                            }
+                        }
+                    }
+                ],
+                "pagingInfo": {
+                    "nextOffset": 5,
+                    "limit": 5
+                }
+            }
+        },
+        {
+            "query": "Anitta",
+            "albums": {
+                "totalCount": 901,
+                "items": [
+                    {
+                        "data": {
+                            "uri": "spotify:album:1qifX05Cb36CfsIgnhv2Lt",
+                            "name": "Downtown",
+                            "artists": {
+                                "items": [
+                                    {
+                                        "uri": "spotify:artist:7FNnA9vBm6EKceENgCGRMb",
+                                        "profile": {
+                                            "name": "Anitta"
+                                        }
+                                    },
+                                    {
+                                        "uri": "spotify:artist:1vyhD5VmyZ7KMfW5gqLgo5",
+                                        "profile": {
+                                            "name": "J Balvin"
+                                        }
+                                    }
+                                ]
+                            },
+                            "coverArt": {
+                                "sources": [
+                                    {
+                                        "url": "https://i.scdn.co/image/ab67616d00001e028c6b830c36c7b4ac43c3cee8",
+                                        "width": 300,
+                                        "height": 300
+                                    },
+                                    {
+                                        "url": "https://i.scdn.co/image/ab67616d000048518c6b830c36c7b4ac43c3cee8",
+                                        "width": 64,
+                                        "height": 64
+                                    },
+                                    {
+                                        "url": "https://i.scdn.co/image/ab67616d0000b2738c6b830c36c7b4ac43c3cee8",
+                                        "width": 640,
+                                        "height": 640
+                                    }
+                                ]
+                            },
+                            "date": {
+                                "year": 2017
+                            }
+                        }
+                    }
+                ],
+                "pagingInfo": {
+                    "nextOffset": 5,
+                    "limit": 5
+                }
+            }
+        },
+        {
+            "query": "Coldplay",
+            "albums": {
+                "totalCount": 899,
+                "items": [
+                    {
+                        "data": {
+                            "uri": "spotify:album:5SGtrmYbIo0Dsg4kJ4qjM6",
+                            "name": "Moon Music",
+                            "artists": {
+                                "items": [
+                                    {
+                                        "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU",
+                                        "profile": {
+                                            "name": "Coldplay"
+                                        }
+                                    }
+                                ]
+                            },
+                            "coverArt": {
+                                "sources": [
+                                    {
+                                        "url": "https://i.scdn.co/image/ab67616d00001e0209ba52a5116e0c3e8461f58b",
+                                        "width": 300,
+                                        "height": 300
+                                    },
+                                    {
+                                        "url": "https://i.scdn.co/image/ab67616d0000485109ba52a5116e0c3e8461f58b",
+                                        "width": 64,
+                                        "height": 64
+                                    },
+                                    {
+                                        "url": "https://i.scdn.co/image/ab67616d0000b27309ba52a5116e0c3e8461f58b",
+                                        "width": 640,
+                                        "height": 640
+                                    }
+                                ]
+                            },
+                            "date": {
+                                "year": 2024
+                            }
+                        }
+                    }
+                ],
+                "pagingInfo": {
+                    "nextOffset": 5,
+                    "limit": 5
+                }
+            }
+        }
+    ]
+}

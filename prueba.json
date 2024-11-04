@@ -1,0 +1,153 @@
+{
+    "playlist": [
+    {
+        "query": "Bad+Bunny",
+        "playlists": {
+            "totalCount": 1000,
+            "items": [
+                {
+                    "data": {
+                        "uri": "spotify:playlist:6cJk4l8gSnsIlF5iK4tkdy",
+                        "name": "🔥BAD BUNNY BEST SONGS🔥",
+                        "description": "",
+                        "images": {
+                            "items": [
+                                {
+                                    "sources": [
+                                        {
+                                            "url": "https://mosaic.scdn.co/640/ab67616d00001e02005ee342f4eef2cc6e8436abab67616d00001e0249d694203245f241a1bcaa72ab67616d00001e024aef420e62863ebf622c27f5ab67616d00001e0264afd6879102d03460bd3ad9",
+                                            "width": 640,
+                                            "height": 640
+                                        },
+                                        {
+                                            "url": "https://mosaic.scdn.co/300/ab67616d00001e02005ee342f4eef2cc6e8436abab67616d00001e0249d694203245f241a1bcaa72ab67616d00001e024aef420e62863ebf622c27f5ab67616d00001e0264afd6879102d03460bd3ad9",
+                                            "width": 300,
+                                            "height": 300
+                                        },
+                                        {
+                                            "url": "https://mosaic.scdn.co/60/ab67616d00001e02005ee342f4eef2cc6e8436abab67616d00001e0249d694203245f241a1bcaa72ab67616d00001e024aef420e62863ebf622c27f5ab67616d00001e0264afd6879102d03460bd3ad9",
+                                            "width": 60,
+                                            "height": 60
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "owner": {
+                            "name": "Bad Mutha Fuckers Girl"
+                        }
+                    }
+                }
+            ],
+            "pagingInfo": {
+                "nextOffset": 1,
+                "limit": 1
+            }
+        }
+    },
+    {
+        "query": "The+Weeknd",
+        "playlists": {
+            "totalCount": 1000,
+            "items": [
+                {
+                    "data": {
+                        "uri": "spotify:playlist:5V7Nprxxwc9iQ2aeZ1tVSa",
+                        "name": "The weekend playlists 🫀",
+                        "description": "",
+                        "images": {
+                            "items": [
+                                {
+                                    "sources": [
+                                        {
+                                            "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da847f5a87b6185c61d340003768",
+                                            "width": null,
+                                            "height": null
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "owner": {
+                            "name": "Julia_1s"
+                        }
+                    }
+                }
+            ],
+            "pagingInfo": {
+                "nextOffset": 1,
+                "limit": 1
+            }
+        }
+    },
+    {
+        "query": "Post+Malone",
+        "playlists": {
+            "totalCount": 1000,
+            "items": [
+                {
+                    "data": {
+                        "uri": "spotify:playlist:1jlgagZD8ZXkUFdIgYuz8m",
+                        "name": "Post Malone: Best Of The Best",
+                        "description": "The biggest and best tracks from Post Malone including the brand new Psycho with Ty Dolla $ign, rockstar with 21 Savage, Congratulations with Quavo, White Iverson and so much more. Check out the <a href=\"https://open.spotify.com/user/best-of-the-best?si=fn1F80SjTrq_o9xNkvkKUw\">Best Of The Best profile</a> for more great playlists!",
+                        "images": {
+                            "items": [
+                                {
+                                    "sources": [
+                                        {
+                                            "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c624adc29a2571d6ea0e4fafb",
+                                            "width": null,
+                                            "height": null
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "owner": {
+                            "name": "Best Of The Best"
+                        }
+                    }
+                }
+            ],
+            "pagingInfo": {
+                "nextOffset": 1,
+                "limit": 1
+            }
+        }
+    },
+    {
+        "query": "Metro+Boomin",
+        "playlists": {
+            "totalCount": 1000,
+            "items": [
+                {
+                    "data": {
+                        "uri": "spotify:playlist:3yTwr58SEEAD9Y8Fv58OOJ",
+                        "name": "Metro Boomin Spider-Man Album",
+                        "description": "",
+                        "images": {
+                            "items": [
+                                {
+                                    "sources": [
+                                        {
+                                            "url": "https://i.scdn.co/image/ab67616d00001e026ed9aef791159496b286179f",
+                                            "width": null,
+                                            "height": null
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "owner": {
+                            "name": "Dom"
+                        }
+                    }
+                }
+            ],
+            "pagingInfo": {
+                "nextOffset": 1,
+                "limit": 1
+            }
+        }
+    }
+]}

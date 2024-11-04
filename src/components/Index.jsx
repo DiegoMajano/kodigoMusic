@@ -9,8 +9,6 @@ import Busqueda from "./Busqueda";
 import SearchIcon from '@mui/icons-material/Search';
 import PlaylistPlayIcon from '@mui/icons-material/PlaylistPlay';
 
-
-
 const theme = createTheme({
     cssVariables: {
       colorSchemeSelector: "data-toolpad-color-scheme",
@@ -74,7 +72,7 @@ export default function Index(props) {
         logo: (
           <img src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg"></img>
         ),
-        title: "Spotify Info App - KodigoMusic",
+        title: "Spotify Info App - KodigoMusic - by DiegoMajano",
       }}
       navigation={[
         {

@@ -1,7 +1,7 @@
 import React from 'react'
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import Login from '../auth/Login'
-import Index from '../components'
+import Index from '../components/Index'
 
 
 export default function Rutas() {

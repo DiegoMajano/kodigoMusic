@@ -1,6 +1,4 @@
 import React, { useEffect, useState } from 'react'
-import SongCard from './SongCard'
-import { getPlaylist, getSearch } from '../services/songServices'
 import PlaylistInfo from './PlaylistInfo'
 import playlistjson from '../../prueba.json'
 import albumsjson from '../../albums.json'
@@ -34,29 +32,29 @@ export default function Home() {
         {
             loading ? 
             (
-                <p>carndo bitches</p> 
+                <p>cargando datos</p> 
             )
             :
             (
                 <div className='d-flex flex-column w-100'>
                     <h3>Recomendaciones:</h3>
                     <div className='' style={{width: '100%'}}>
-                        <div className='row'>
+                        <div className='row gap-2'>
                             {                                               
                                 top4Playlist.map((playlist, index) => {
                                     console.log(playlist);                            
-                                    return <div className='col-12 col-sm-6' key={index}> <PlaylistInfo  playlist={playlist}/> </div>
+                                    return <div className='col-6' key={index}> <PlaylistInfo  playlist={playlist}/> </div>
                                 })
                             }
                         </div>
                     </div>       
                     <h3 className='mt-2'>Playlist top</h3>
                     <div className='' style={{width: '100%'}}>
-                        <div className='row'>
+                        <div className='row gap-2'>
                             {                                               
                                 topPlaylist.map((playlist, index) => {
                                     console.log(playlist);                            
-                                    return <div className='col-12 col-sm-6' key={index}> <PlaylistInfo  playlist={playlist}/> </div>
+                                    return <div className='col-6' key={index}> <PlaylistInfo  playlist={playlist}/> </div>
                                 })
                             }
                         </div>

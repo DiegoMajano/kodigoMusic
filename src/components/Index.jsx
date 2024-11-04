@@ -8,6 +8,7 @@ import Home from "./Home";
 import Busqueda from "./Busqueda";
 import SearchIcon from '@mui/icons-material/Search';
 import PlaylistPlayIcon from '@mui/icons-material/PlaylistPlay';
+import Login from "../auth/Login";
 
 const theme = createTheme({
     cssVariables: {
@@ -60,41 +61,63 @@ function DemoPageContent({ pathname }) {
 
   
 export default function Index(props) {
-    const { window } = props;
-    const router = useDemoRouter("/index");
-    const demoWindow = window !== undefined ? window() : undefined;   
+
+  const [isAuthenticated, setIsAuthenticated] = React.useState(false)
+  const { window } = props;
+  const router = useDemoRouter("/index");
+  const demoWindow = window !== undefined ? window() : undefined;   
+
+  
+  React.useEffect(()=> {
+    const email = localStorage.getItem("correo");
+    if (email) {
+      setIsAuthenticated(true);
+    } else {
+      setIsAuthenticated(false);
+    }
+  },[])
   
 
   return (
     <>
-        <AppProvider
-      branding={{
-        logo: (
-          <img src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg"></img>
-        ),
-        title: "Spotify Info App - KodigoMusic - by DiegoMajano",
-      }}
-      navigation={[
-        {
-          segment: "Busqueda",
-          title: "Busqueda",
-          icon: <SearchIcon />,
-        },
-        {
-          segment: "Playlist",
-          title: "Playlist",
-          icon: <PlaylistPlayIcon />,
-        },
+
+    {
+      isAuthenticated ? (
+
+            <AppProvider
+          branding={{
+            logo: (
+              <img src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg"></img>
+            ),
+            title: "Spotify Info App - KodigoMusic - by DiegoMajano",
+          }}
+          navigation={[
+            {
+              segment: "Busqueda",
+              title: "Busqueda",
+              icon: <SearchIcon />,
+            },
+            {
+              segment: "Playlist",
+              title: "Playlist",
+              icon: <PlaylistPlayIcon />,
+            },
+            
+          ]}
+          router={router}
+          theme={theme}
+          window={demoWindow}
+        >
+          <DashboardLayout>
+            <DemoPageContent pathname={router.pathname} />
+          </DashboardLayout>
+        </AppProvider>
+
+      ) : (
+        <Login />
+      )
+    }
         
-      ]}
-      router={router}
-      theme={theme}
-      window={demoWindow}
-    >
-      <DashboardLayout>
-        <DemoPageContent pathname={router.pathname} />
-      </DashboardLayout>
-    </AppProvider>
     </>
   )
 }

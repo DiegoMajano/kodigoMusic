@@ -6,6 +6,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 export default function Login() {
     const { register, handleSubmit, formState: { errors } } = useForm();
     const navigate = useNavigate();
+    
 
     const loginForm = async (data) => {
         
@@ -17,7 +18,8 @@ export default function Login() {
             confirmButtonText: "Siguiente"
           }).then((result) => {
             if(result.isConfirmed){
-                navigate('/')
+                localStorage.setItem("correo", data.email)
+                navigate('/index')
             }
           });
     };

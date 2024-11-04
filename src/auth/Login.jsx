@@ -25,8 +25,8 @@ export default function Login() {
     };
 
     return (
-        <div className="login-container">
-            <div className="card login-card shadow-lg">
+        <div className="login-container" style={{width: '75%', margin: 'auto', justifyItems: 'center'}}>
+            <div className="card login-card shadow-lg p-5 w-50" >
                 <h2 className="text-center mb-4"><i className="bi bi-box-arrow-in-right"></i> Iniciar Sesión</h2>
                 <p className="text-center text-muted">Ingresa tus credenciales para acceder al sistema</p>
                 <form onSubmit={handleSubmit(loginForm)}>
